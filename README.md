@@ -1,1 +1,1 @@
-https://hub.docker.com/r/geosite/geositeserver
+http://www.xacgs.cn:12345/geosite/GeositeServer/
